@@ -1,0 +1,4 @@
+# Ignore these file
+SerBees.xcodeproj/
+
+.DS_Store
